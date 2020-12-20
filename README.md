@@ -47,8 +47,8 @@
 <br/>
 
 ## Coding Activity
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sartorileonardo&langs_count=5&include_all_commits&count_private=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sartorileonardo&langs_count=10&include_all_commits&count_private=true&theme=dark)
 
 ## Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sartorileonardo&langs_count=5&include_all_commits&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sartorileonardo&langs_count=10&include_all_commits&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
