@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning Java, Spring-Boot and Angular; 
 
-- 💬 Ask me about anything, I am happy to help;
-
 
 ### Where to find me:
 
