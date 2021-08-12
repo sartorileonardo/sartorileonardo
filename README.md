@@ -4,9 +4,9 @@
 
 - 👩🏻‍🚀 I like to travel by motorcycle;
 
-- 👩🏻‍ In my spare time I trained taekwondo and now I ride a bike and read books;
+- 👩🏻‍ In my spare time I ride a bike and read books;
 
-- 🌱 I’m currently learning Java, Spring-Boot and Angular; 
+- 🌱 I’m currently learning Spring Boot, Micro Services and Clean Architecture; 
 
 
 ### Where to find me:
