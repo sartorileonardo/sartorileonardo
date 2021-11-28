@@ -6,7 +6,7 @@
 
 - 👩🏻‍ In my spare time I ride a bike and read books;
 
-- 🌱 I’m currently learning Spring Boot, Micro Services and Clean Architecture; 
+- 🌱 I’m currently learning Spring Boot and other technologies; 
 
 
 ### Where to find me:
