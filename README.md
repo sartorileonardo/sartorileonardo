@@ -57,11 +57,13 @@
 
 <br/>
 
+## Contributions:
+[![Contributions](https://github-readme-streak-stats.herokuapp.com?user=sartorileonardo&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sartorileonardo&langs_count=5&include_all_commits&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Coding Activity
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sartorileonardo&langs_count=5&include_all_commits&count_private=true&theme=dark)
-
+[![Coding Activity](https://github-readme-stats.vercel.app/api?username=sartorileonardo&langs_count=5&include_all_commits&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
