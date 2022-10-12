@@ -42,8 +42,8 @@
 
 <br/>
 
+- 📌 [Roteiro de apoio para novos devs](https://www.linkedin.com/pulse/roteiro-de-apoio-para-novos-devs-leonardo-sartori/)
 - 📌 [O que aprendi da poupança à bolsa de valores](https://www.linkedin.com/pulse/o-que-aprendi-da-poupan%C3%A7a-%C3%A0-bolsa-de-valores-leonardo-sartori/)<br />
-- 📌 [É impossível inovar no legado! Será?](https://www.linkedin.com/pulse/%C3%A9-imposs%C3%ADvel-inovar-legado-ser%C3%A1-leonardo-sartori/)
 - 📌 [Conhecendo a linguagem R](https://www.linkedin.com/pulse/conhecendo-linguagem-r-leonardo-sartori/)
 
 <br/>
