@@ -6,7 +6,7 @@
 
 - 👩🏻‍ In my spare time I ride a bike and read books;
 
-- 🌱 I’m currently learning Spring Boot and other technologies; 
+- 🌱 I’m currently learning Spring Boot and other technologies;
 
 
 ### Where to find me:
@@ -37,6 +37,9 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 
+## My last project
+- 📌 [analisys-brazilian-stock]([https://www.linkedin.com/pulse/roteiro-de-apoio-para-novos-devs-leonardo-sartori/](https://analisys-brazilian-stock-front.vercel.app/)
+<br/>
 
 ## My latest articles
 
