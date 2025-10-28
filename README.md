@@ -2,13 +2,13 @@
 
 ## Sobre mim
 
-🌟 GitHub: github.com/sartorileonardo
-📈 Último projeto pessoal público: analisys-brazilian-stock-front.vercel.app
-📚 Cursos: bit.ly/sartori-courses
-📖 Livros lidos: bit.ly/sartori-books
-📖 Duolingo: duolingo.com/profile/sartorileonardo
-🚴 Strava: strava.com/athletes/sartorileonardo
-🎓 Última mentoria, como criar uma API de mini banco: https://www.youtube.com/live/Mr5uRdzqlhA?si=HHzSXX1eCv4wbpYt
+- 🌟 GitHub: github.com/sartorileonardo
+- 📈 Último projeto pessoal público: analisys-brazilian-stock-front.vercel.app
+- 📚 Cursos: bit.ly/sartori-courses
+- 📖 Livros lidos: bit.ly/sartori-books
+- 📖 Duolingo: duolingo.com/profile/sartorileonardo
+- 🚴 Strava: strava.com/athletes/sartorileonardo
+- 🎓 Última mentoria, como criar uma API de mini banco: https://www.youtube.com/live/Mr5uRdzqlhA?si=HHzSXX1eCv4wbpYt
 
 ## Minha Stack de Desenvolvimento
 
