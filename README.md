@@ -2,10 +2,13 @@
 
 ## Sobre mim
 
-- 🌱 Atualmente estudando Java, Spring Boot, AWS e outras tecnologias;
-- 📌 Desenvolvedor com experiência em análise de ações financeiras (último projeto: [Analysis Brazilian Stock](https://analisys-brazilian-stock-front.vercel.app/));
-- 👩🏻‍🚀 Apaixonado por viajar de moto e explorar atividades ao ar livre;
-- 📚 Adoro ler livros, fazer cursos e participar de workshops de tecnologia.
+🌟 GitHub: github.com/sartorileonardo
+📈 Último projeto pessoal público: analisys-brazilian-stock-front.vercel.app
+📚 Cursos: bit.ly/sartori-courses
+📖 Livros lidos: bit.ly/sartori-books
+📖 Duolingo: duolingo.com/profile/sartorileonardo
+🚴 Strava: strava.com/athletes/sartorileonardo
+🎓 Última mentoria, como criar uma API de mini banco: https://www.youtube.com/live/Mr5uRdzqlhA?si=HHzSXX1eCv4wbpYt
 
 ## Minha Stack de Desenvolvimento
 
