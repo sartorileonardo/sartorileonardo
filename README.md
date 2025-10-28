@@ -8,7 +8,7 @@
 - 📖 Livros lidos: bit.ly/sartori-books
 - 📖 Duolingo: duolingo.com/profile/sartorileonardo
 - 🚴 Strava: strava.com/athletes/sartorileonardo
-- 🎓 Última mentoria, como criar uma API de mini banco: https://www.youtube.com/live/Mr5uRdzqlhA?si=HHzSXX1eCv4wbpYt
+- ▶️ Última mentoria voluntária no Youtube: https://lnkd.in/di_Eyqgc
 
 ## Minha Stack de Desenvolvimento
 
