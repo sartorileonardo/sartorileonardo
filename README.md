@@ -45,10 +45,13 @@ Livros lidos: bit.ly/sartori-books
 
 ## About Me
 
-- 🌱 Currently learning Java, Spring Boot, AWS, and other technologies;
-- 📌 Developer with experience in financial stock analysis (latest project: [Analysis Brazilian Stock](https://analisys-brazilian-stock-front.vercel.app/));
-- 👩🏻‍🚀 Passionate about motorcycle travel and outdoor activities;
-- 📚 Love reading books, taking courses, and attending technology workshops.
+- 🌟 GitHub: github.com/sartorileonardo
+- 📈 Last public personal project: analisys-brazilian-stock-front.vercel.app
+- 📚 Courses: bit.ly/sartori-courses
+- 📖 Books read: bit.ly/sartori-books
+- 📖 Duolingo: duolingo.com/profile/sartorileonardo
+- 🚴 Strava: strava.com/athletes/sartorileonardo
+- ▶️ Last volunteer mentoring session on Youtube: https://lnkd.in/di_Eyqgc
 
 ## My Development Stack
 
